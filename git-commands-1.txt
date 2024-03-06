@@ -1,4 +1,4 @@
-git status
+git status -> git status of our repository
 git init
 git config --global user.name "Let's Kode It"
 git config --global user.name "letskodeit@gmail.com"
@@ -7,3 +7,5 @@ git add
 git commit --m ""
 git log
 Git diff <filename>
+
+zzz
